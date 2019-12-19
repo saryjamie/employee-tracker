@@ -55,7 +55,7 @@ SELECT * FROM employee_tracker_db.manager;
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
-("Mark", "Anthony", 1, 1),
+("Sary", "Jamie", 1, 1),
 ("John","Smith", 2, 1),
 ("William","Apolo", 4, 3),
 ("Monica","Guiller", 4, 3),
